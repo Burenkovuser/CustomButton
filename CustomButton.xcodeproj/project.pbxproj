@@ -13,6 +13,7 @@
 		FB7F5AE32382485A002A51E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB7F5AE12382485A002A51E8 /* Main.storyboard */; };
 		FB7F5AE52382485D002A51E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7F5AE42382485D002A51E8 /* Assets.xcassets */; };
 		FB7F5AE82382485D002A51E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB7F5AE62382485D002A51E8 /* LaunchScreen.storyboard */; };
+		FB7F5AF023825F1D002A51E8 /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7F5AEF23825F1D002A51E8 /* MyButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FB7F5AE42382485D002A51E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB7F5AE72382485D002A51E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB7F5AE92382485D002A51E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB7F5AEF23825F1D002A51E8 /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FB7F5ADB2382485A002A51E8 /* AppDelegate.swift */,
 				FB7F5ADD2382485A002A51E8 /* SceneDelegate.swift */,
 				FB7F5ADF2382485A002A51E8 /* ViewController.swift */,
+				FB7F5AEF23825F1D002A51E8 /* MyButton.swift */,
 				FB7F5AE12382485A002A51E8 /* Main.storyboard */,
 				FB7F5AE42382485D002A51E8 /* Assets.xcassets */,
 				FB7F5AE62382485D002A51E8 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				FB7F5AE02382485A002A51E8 /* ViewController.swift in Sources */,
 				FB7F5ADC2382485A002A51E8 /* AppDelegate.swift in Sources */,
 				FB7F5ADE2382485A002A51E8 /* SceneDelegate.swift in Sources */,
+				FB7F5AF023825F1D002A51E8 /* MyButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
